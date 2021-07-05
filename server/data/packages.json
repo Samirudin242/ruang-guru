@@ -1,0 +1,56 @@
+[
+    {
+        "packageName": "Mahir Berbahasa Inggris",
+        "packageSerial": "PKG-EQCB30RW",
+        "packageTag": "englishacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Kuasai 12 Tense",
+        "packageSerial": "PKG-EQAB40LW",
+        "packageTag": "englishacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "TOEFL Best Preparation",
+        "packageSerial": "PKG-EGCB50RX",
+        "packageTag": "englishacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Belajar Mudah Java Untuk Pemula",
+        "packageSerial": "PKG-7RI296FY",
+        "packageTag": "skillacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Dasar-Dasar HTML dan CSS Untuk Pemula",
+        "packageSerial": "PKG-8RI214FH",
+        "packageTag": "skillacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Membuat Website Dengan ReactJs",
+        "packageSerial": "PKG-6RI141GY",
+        "packageTag": "skillacademy",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Paket Lengkap Untuk Siswa SMA",
+        "packageSerial": "PKG-1RI151AY",
+        "packageTag": "ruangguru",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Paket Lengkap Untuk Siswa SMP",
+        "packageSerial": "PKG-5RI752AY",
+        "packageTag": "ruangguru",
+        "orderStatus": null
+    },
+    {
+        "packageName": "Paket Lengkap Untuk Siswa SD",
+        "packageSerial": "PKG-4RI2511Y",
+        "packageTag": "ruangguru",
+        "orderStatus": null
+    }
+]

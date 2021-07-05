@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "ruang-guru",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "dialectOptions": {
+      "ssl": true
+    }
+  },
+  "production": {
+    "username": "ekfdrwyveoyvla",
+    "password": "58f4de5c36bc6fdfeaa8cd382241e161a1ae37049e853163ffae7d77af6c917e",
+    "database": "d14gfio1uebmlo",
+    "host": "ec2-52-2-118-38.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    },
+    "operatorsAliases": false
+  }
+}
